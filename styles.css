@@ -1,0 +1,11 @@
+main{
+    text-align: center;
+}
+
+input{
+    display: block;
+    margin: auto;
+}
+button{
+    margin: 1rem;
+}
